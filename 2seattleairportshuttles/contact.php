@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
  <head>
-  <title>One Way & Round Trip Cruise Transfers To Seattle Airport shuttles</title>
-  <meta name="robots" content="noindex,nofollow" >
+  <title>One Way & Round Trip Cruise Transfers To Seattle Airport shuttles wwww</title>
+  
   <meta name="viewport" content="width=device-width" >
   <meta charset="utf-8" >
   <link rel="stylesheet" href="css/portal.css" >
@@ -13,7 +13,7 @@
 
  <body>
      <header>
-     <h1> SCHEDULE SHARED RIDE SERVICE AND PRIVATE NON STOP SERVICE NOWXXXXX </h1>
+     <h1 > **SCHEDULE SHARED RIDE SERVICE** <br> AND PRIVATE NON STOP SERVICE <br> AND FREE LUGGAGE STORAGE - ASK FOR DETAILS </h1>
      <nav class="topnav" id="myTopnav">
      <a href="index.html" class="active">Welcome</a>
        <a href="rates.html">Rates</a>
@@ -47,7 +47,7 @@
 
         include 'includes/contact_include.php'; #site keys & code here
     
-        $toAddress = "william@2seattleairportshuttles.com";  //place your/your client's email address here
+        $toAddress = "2seattleairportshuttles.com";  //place your/your client's email address here
         $toName = "William Anderson"; //place your client's name here
         $website = "Elgante Transportation & luggage Service";  //place NAME of your client's website
 
