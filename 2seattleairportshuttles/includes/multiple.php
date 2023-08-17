@@ -69,7 +69,7 @@
 </div>
 <div>	
     <label>
-        Comments:<br><textarea name="Comments" cols="36" rows="4" placeholder="Your comments are important to us!" tabindex="60"></textarea>
+        Comments or book here:<br><textarea name="Comments" cols="36" rows="4" placeholder="Your comments are important to us!" tabindex="60"></textarea>
     </label>
 </div>	
 <div class="g-recaptcha" data-sitekey="<?=$siteKey;?>"></div>

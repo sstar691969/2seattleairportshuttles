@@ -35,7 +35,7 @@
        
        <h2 class="subheader">SEATTLE CRUISE PORT EXPRESS TRANSFERS TO PIER 66 & 91</h2>
        
-       <p>SCHEDULE SHARED RIDE SERVICE AND PRIVATE NON STOP SERVICE BETWEEN SEATTLE AIRPORT AND SEATTLE CRUISE SHIP PORT - Our goal is to give you the best experience possible while traveling throughout the great northwest while relaxing in our luxury vehicles driven by experience drivers  bonded and insured to reasure your comfort during your stay in the Puget sound.  Our payment options are: VISA / AMERICAN EXPRESS / CASHAPP / VENMO / SQUARE and many more. BOOK HERE IN THE FORMS BELOW OR email us sstar691969@yahoo.com or sstar691969@gmail.com with booking dates for the Greater Seattle area. </p>
+       <p>SCHEDULE SHARED RIDE SERVICE AND PRIVATE NON STOP SERVICE BETWEEN SEATTLE AIRPORT AND SEATTLE CRUISE SHIP PORT - Our goal is to give you the best experience possible while traveling throughout the great northwest while relaxing in our luxury vehicles driven by experience drivers  bonded and insured to reasure your comfort during your stay in the Puget sound.  Our payment options are: VISA / AMERICAN EXPRESS / CASHAPP / VENMO / SQUARE and many more. BOOK HERE BELOW OR email us william@2seattleairportshuttles.com + 202-796-1499 with booking dates for the Greater Seattle area. 0000000000 </p>
 
        <?php
         /*
@@ -47,7 +47,7 @@
 
         include 'includes/contact_include.php'; #site keys & code here
     
-        $toAddress = "2seattleairportshuttles.com";  //place your/your client's email address here
+        $toAddress = "william@2seattleairportshuttles.com";  //place your/your client's email address here
         $toName = "William Anderson"; //place your client's name here
         $website = "Elgante Transportation & luggage Service";  //place NAME of your client's website
 
